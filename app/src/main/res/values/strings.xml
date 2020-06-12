@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="text_1">Выберите, какую валюту желаете конвертировать</string>
+    <string name="text_2">Рубль в доллар</string>
+    <string name="text_3">Доллар в рубль</string>
+    <string name="text_4">Введите сумму:</string>
+    <string name="text_5">Рассчитать</string>
+
+</resources>
